@@ -34,19 +34,19 @@ Clout helps you think, not publish.
 
 -Extracts:
 
-  -Emails
-  
-  -Proper nouns (industry keywords / market intelligence!)
-  
-  -Entities that matter for audience and competitor analysis (frequently occuring SEO keywords!)
+    -Emails
+    
+    -Proper nouns (industry keywords / market intelligence!)
+    
+    -Entities that matter for audience and competitor analysis (frequently occuring SEO keywords!)
   
 -Generates three long-form draft variants per blog:
 
-  -Thought Leadership
-  
-  -Story Narrative
-  
-  -Actionable / Framework
+    -Thought Leadership
+    
+    -Story Narrative
+    
+    -Actionable / Framework
   
 -Streams LLM output live in terminal
 
@@ -60,16 +60,16 @@ When the tool performs a search (via SerpAPI), it retrieves top results related 
 
 These links represent:
 
-  -Competitor articles
-  
-  -Think pieces
-  
-  -Market commentary
-  
-  -Industry pages
-  
-  -Related editorial content
-  
+    -Competitor articles
+    
+    -Think pieces
+    
+    -Market commentary
+    
+    -Industry pages
+    
+    -Related editorial content
+    
 The text from these pages enriches your drafts with broader context. These exact links are stored in the serp_debug sheet so you always know the research sources.
 
 ### 🚀 Installation (Short & Plain)
@@ -94,5 +94,4 @@ The text from these pages enriches your drafts with broader context. These exact
 
 -Add this API key to your .env file so the script can run searches and gather market-research context.
 
-
-Don't forget to add your SERP API! The entire research process relies on this.
+### Don't forget to add your SERP API! The entire research process relies on this.
