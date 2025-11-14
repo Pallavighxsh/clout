@@ -1,7 +1,6 @@
 #!/usr/bin/env python3
 """
 clout.py
-Final freeze-proof script:
 - Generates 3 LinkedIn posts per blog (different angles)
 - Streams tokens in terminal while capturing full output
 - Saves one row per post into clout_posts.xlsx
@@ -39,7 +38,7 @@ LLAMA_MODEL_PATH = os.getenv("LLAMA_CPP_MODEL_PATH")
 
 HEADERS = {"User-Agent": "Mozilla/5.0"}
 
-# Your blog list (first one excluded earlier — kept as three)
+# Your blog list (can also be a product page or random article but don't change the variable name)
 BLOG_URLS = [
     "https://pallavighxsh.wordpress.com/2025/01/28/ai-tone-consistency-in-brand-aligned-communication/",
     "https://pallavighxsh.wordpress.com/2024/10/22/tone-it-down-can-ai-really-get-your-brand-voices-vibe/",
