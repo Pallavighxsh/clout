@@ -78,6 +78,10 @@ The text from these pages enriches your drafts with broader context. These exact
 
 -Install the required dependencies listed in requirements.txt.
 
+-In the script, find the variable BLOG_URLS and add some links on topics you want your long-form post to be based on. (Not necessarily blogs, could also be product pages.)
+
+-The above step is important. This tool will research the topics from the links further but we have to give it some direction.
+
 ### 🧠 Model Setup (Phi-3 Mini)
 
 -Download the model file Phi-3-mini-4k-instruct-q4.gguf from HuggingFace or Microsoft’s official model page.
