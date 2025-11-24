@@ -70,7 +70,7 @@ These links represent:
     
     -Related editorial content
     
-The text from these pages enriches your drafts with broader context. These exact links are stored in the serp_debug sheet so you always know the research sources.
+The text from these pages enriches your drafts with broader context. These enrich the final copy.
 
 ### 🚀 Installation (Short & Plain)
 
