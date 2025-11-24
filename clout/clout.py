@@ -1,6 +1,5 @@
 #!/usr/bin/env python3
 """
-clout_ultra.py
 - Scrapes multiple URLs
 - Runs SERP enrichment
 - Summarizes chunks for context
