@@ -1,8 +1,8 @@
-# Clout: A Social Media Market Research & Long-Form Draft Generator
+# Clout: A Copywriting Market Research & Draft Generator
 
 (Not a LinkedIn Post Writer)
 
-Clout is a Python-based social media market-research and long-form draft creation tool. It does not produce final, ready-to-publish LinkedIn posts. Instead, it generates deep, research-enriched raw material you can refine into polished content.
+Clout is a Python-based copywriting, market-research, and long-form draft creation tool. It does not produce final, ready-to-publish LinkedIn posts. Instead, it generates deep, research-enriched raw material you can refine into polished content.
 
 This tool scrapes your blog posts, performs SERP research, extracts entities, and produces three exploratory long-form narrative drafts for each blog post.
 
