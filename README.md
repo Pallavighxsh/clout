@@ -72,15 +72,15 @@ These links represent:
     
 The text from these pages enriches your drafts with broader context. These enrich the final copy.
 
-### 🚀 Installation (Short & Plain)
+### 🚀 Installation
 
 -Set up a Python virtual environment on your machine (optional but recommended).
 
--Install the required dependencies listed in requirements.txt.
+-Install the required dependencies.
 
--In the script, find the variable BLOG_URLS and add some links on topics you want your long-form post to be based on. (Not necessarily blogs, could also be product pages.)
+-In the script, find the variable BLOG_URLS and add some links to topics you want your long-form post to be based on. (Not necessarily blogs, could also be product pages.)
 
--The above step is important. This tool will research the topics from the links further but we have to give it some direction.
+-The above step is important. This tool will research the topics from the links further, but we have to give it some direction.
 
 ### 🧠 Model Setup (Phi-3 Mini)
 
