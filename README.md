@@ -34,11 +34,11 @@ Clout helps you think, not publish.
 
 -Extracts:
 
-    -Emails
+    -Emails for market research
     
-    -Proper nouns (industry keywords / market intelligence!)
+    -Proper nouns (industry keywords/market intelligence)
     
-    -Entities that matter for audience and competitor analysis (frequently occuring SEO keywords!)
+    -Audience and competitor analysis (frequently occurring SEO keywords)
   
 -Generates three long-form draft variants per blog:
 
@@ -86,7 +86,7 @@ The text from these pages enriches your drafts with broader context. These enric
 
 -Download the model file Phi-3-mini-4k-instruct-q4.gguf from HuggingFace or Microsoft’s official model page.
 
--Place the downloaded GGUF model file inside the models folder.
+-Place the downloaded GGUF model file inside the clout folder.
 
 -Provide the full path to the model file in your .env so the script knows where to load it from. (nano .env)
 
